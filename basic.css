@@ -1,11 +1,11 @@
 	
 
-body {
+	body {
   		background-image: url("jazz.jpg");
    		background-repeat: repeat;
 	}
 
-h1, p {
+	h1, p {
 		color: red;
 		font-size: 80px;
 		font-family: sans-serif;
