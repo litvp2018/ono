@@ -1,0 +1,46 @@
+	
+
+body {
+  		background-image: url("jazz.jpg");
+   		background-repeat: repeat;
+	}
+
+h1, p {
+		color: red;
+		font-size: 80px;
+		font-family: sans-serif;
+		margin-left: 10%;
+		margin-right: 10%;
+ 		filter: drop-shadow(4px 4px 8px black);
+		/* for most browsers (Firefox, Chrome, Edge, ...)*/
+  		-webkit-filter: drop-shadow(4px 4px 8px black);
+		/* for older browsers (e.g. Safari <6.0)*/
+	}
+	
+	ul {
+		color: blue;
+		font-size: 40px;
+		font-family: sans-serif;
+		filter: drop-shadow(50px 50px  10px blue);
+	}
+
+	.Large {
+		font-size: 100px;
+	}
+
+	.scromble {
+		font-size: 300px;
+	}
+	
+	img {
+		margin-left: 30%;
+		margin-right: 30%;
+		/* for most browsers (Firefox, Chrome, Edge, ...)*/
+  		-webkit-filter: drop-shadow(4px 4px 8px black);
+		/* for older browsers (e.g. Safari <6.0)*/
+	}
+	
+	.cabbagesticks {
+		font-size: 800px;
+		color: pink;
+	}
